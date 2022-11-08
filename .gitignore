@@ -1,3 +1,5 @@
 react-frontend/node_modules
 
 python-api/py311venv/Lib/site-packages
+
+python-api/config/db
